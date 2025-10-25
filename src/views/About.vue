@@ -11,6 +11,7 @@
       <p>
         Thank you for choosing Online Flower Shop. We hope you enjoy your visit!
       </p>
+      <P>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illo architecto praesentium maiores error eaque inventore similique doloribus a consequatur sed, blanditiis modi fugiat deserunt, exercitationem eligendi cumque! Aliquid, error ipsam!</P>
     </div>
   </div>
 </template>
