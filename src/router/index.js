@@ -7,6 +7,7 @@ import Bouquet from '../views/bouquet.vue';
 import ViewAll from '../views/viewall.vue';
 import LogIn from '../components/LogIn.vue';
 import Service from '../components/Service.vue';
+import comment from '../views/comment.vue';
 
 const routes = [
   { path: '/', component: Home },
@@ -17,6 +18,7 @@ const routes = [
   { path: '/viewall', component: ViewAll },
   { path: '/LogIn', component: LogIn},
   { path: '/Service', component: Service},
+  { path: '/Comment', component: comment },
   // ...existing routes...
 ];
 
