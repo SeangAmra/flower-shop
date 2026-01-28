@@ -11,6 +11,8 @@
         <router-link to="/about" class="text-black hover:text-secondary transition duration-700">About</router-link>
         <RouterLink to="/LogIn" class="text-black hover:text-secondary transition duration-700">Login</RouterLink>
         <RouterLink to="/Service" class="text-black hover:text-secondary transition duration-700">Service</RouterLink>
+        <RouterLink to="/Comment" class="text-black hover:text-secondary transition duration-700">Comment</RouterLink>
+      
       </nav>
     </div>
   </header>
